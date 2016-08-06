@@ -32,7 +32,7 @@ artifacts {
 // Bintray
 bintray {
     user = bintray.user
-    key = bintray.apikey"
+    key = bintray.apikey
 
     configurations = ['archives']
     pkg {
